@@ -25,7 +25,7 @@ If you have any question about this document, please reach out to admixer@nasmed
 # 1. Bid Request Specification
 ## Object model
 
-Object | Support | OpenRTB 2.3 Section for Reference | Native Ads 1.2 Section for Reference | Extension
+Object | Support | OpenRTB 2.5 Section for Reference | Native Ads 1.2 Section for Reference | Extension
 :--- | :---: | :---: | :---: | :---
 BidRequest | O | 3.2.1 |  | O
 Source | O | 3.2.2 |  | X
