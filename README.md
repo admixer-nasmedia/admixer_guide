@@ -763,7 +763,7 @@ nurl | O | string; optional
 burl | O | string; optional
 lurl | O | string; optional
 adm | O | string; **required**, Format: HTML<br>Win notice URL must be included within HTML.
-adomain | O | string array; recommended
+adomain | O | string array; **required**
 iurl | O | string; recommended
 cid | O | string; **required**
 crid | O | string; **required**
